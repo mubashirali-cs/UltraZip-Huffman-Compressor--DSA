@@ -1,4 +1,4 @@
-<img width="1920" height="1043" alt="image" src="https://github.com/user-attachments/assets/ad2ffd47-67c9-4d1d-b16e-1af4cfc36261" /># 🗜️ UltraZip: Huffman File Compressor
+# 🗜️ UltraZip: Huffman File Compressor
 
 A lightweight, high-efficiency file compression utility written in standard C++. 
 
